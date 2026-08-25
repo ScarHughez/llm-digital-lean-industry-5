@@ -731,3 +731,13 @@ Como evolução deste projeto, podem ser desenvolvidos:
 Engenheiro Mecânico | Lean Manufacturing | Gestão de Projetos e Produção | Inteligência Artificial aplicada à Engenharia e Manufatura
 
 **Projeto desenvolvido como estudo prático de aplicação de Inteligência Artificial Generativa, engenharia de prompts, pesquisa assistida por IA e transformação digital na manufatura.**
+
+## Licença
+
+O material original desenvolvido neste projeto é disponibilizado sob
+a [MIT License](LICENSE).
+
+Os artigos científicos, vídeos, imagens, documentos e demais materiais
+de terceiros utilizados como fontes de pesquisa não são abrangidos por
+esta licença e permanecem sujeitos às suas respectivas licenças e
+direitos autorais.
